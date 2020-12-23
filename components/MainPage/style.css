@@ -1,0 +1,40 @@
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+  }
+
+.container{
+      align-items: center;
+      padding-top: 20%;
+      color: orange;
+      font-size: larger;
+      font-weight: 100
+ }
+ .st{
+     color: rgb(20, 15, 15);
+     font-display: flex;
+     font-size: 25px;
+     font-weight: normal;
+ }
+.st2{
+    margin-top: 3%;
+    font-weight: bold;
+    font-size: 20px;
+}
+.button {
+    background-color:orange; 
+    border-top-right-radius: 5em 5em;
+    border-bottom-right-radius: 5em 5em;
+    color: white;
+    padding: 11px 30px;
+    text-align: center;
+    font-size: 13px;
+  }
+.custom-input
+{
+    padding:10px 50px;
+    text-align: left;
+}

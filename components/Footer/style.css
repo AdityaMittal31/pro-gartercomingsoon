@@ -1,0 +1,12 @@
+.footer {
+    display: flex;
+    padding-left: 70%;
+}
+
+.back {
+    color:green;
+}
+
+.continue {
+    padding-left: 2%;
+}
